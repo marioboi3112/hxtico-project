@@ -1,0 +1,4 @@
+-main Main
+--lua bin/main.lua
+-D lua_vanilla
+-L hxtico
